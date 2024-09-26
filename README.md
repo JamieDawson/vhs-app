@@ -8,5 +8,6 @@ Current goals:
 - [ ] White tv static filter
 - [ ] Grain filter
 - [ ] VHS timestamp overlay
+- [ ] Download image button
 
 More goals TBA
